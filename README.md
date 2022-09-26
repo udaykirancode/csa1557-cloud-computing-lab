@@ -25,3 +25,5 @@
 ![image](https://user-images.githubusercontent.com/113407411/192208252-42fb74a7-62b1-452a-8f3c-6f9b73c70b19.png)
 ##exp.no.5:
 (https://github.com/udaykirancode/csa1557-cloud-computing-lab/blob/main/exp.no.:5)
+![Screenshot (89)](https://user-images.githubusercontent.com/113407411/192211008-47e2ef10-0a0b-47d7-96fc-3b722f7f7f04.png)
+![Screenshot (90)](https://user-images.githubusercontent.com/113407411/192211045-caf811ba-3dd6-4223-9993-6c609819ca3c.png)
