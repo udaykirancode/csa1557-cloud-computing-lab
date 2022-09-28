@@ -68,3 +68,8 @@
 ![Screenshot (137)](https://user-images.githubusercontent.com/113407411/192724725-51731567-403b-4ddb-8fe7-41e5e2577f53.png)
 ![Screenshot (138)](https://user-images.githubusercontent.com/113407411/192724746-d7ff9eae-c5b3-4a48-a5a0-059142ac4e25.png)
 ![Screenshot (139)](https://user-images.githubusercontent.com/113407411/192724788-96536188-9305-4a52-9cbc-6b92301233d6.png)
+##exp.no.12
+(https://github.com/udaykirancode/csa1557-cloud-computing-lab/blob/main/exp.no.:12)
+![Screenshot (125)](https://user-images.githubusercontent.com/113407411/192727982-8f1c38a6-d037-4278-90ae-d3d73d8e110e.png)
+![Screenshot (126)](https://user-images.githubusercontent.com/113407411/192728025-e2995efd-c9c3-43cb-b9c4-395bb2a7e854.png)
+![Screenshot (124)](https://user-images.githubusercontent.com/113407411/192728065-1b90d71e-f5bb-4f90-989e-cf99caed6c65.png)
