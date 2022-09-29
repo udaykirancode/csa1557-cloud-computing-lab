@@ -76,7 +76,7 @@
 ![Screenshot (124)](https://user-images.githubusercontent.com/113407411/192728065-1b90d71e-f5bb-4f90-989e-cf99caed6c65.png)
 ![Uploading Screenshot (140).png…]()
 ##exp.no.13:
-()
+(https://github.com/udaykirancode/csa1557-cloud-computing-lab/blob/main/exp.no.:13)
 ![Screenshot (125)](https://user-images.githubusercontent.com/113407411/192933950-cf102984-676f-48a7-bce3-8cca8e0980ba.png)
 ![Screenshot (126)](https://user-images.githubusercontent.com/113407411/192934159-4e50929d-e125-4c50-8419-be5a3e6d1517.png)
 ![Screenshot (127)](https://user-images.githubusercontent.com/113407411/192934176-3948a0e6-181f-43f8-9595-f7763efbd0e8.png)
