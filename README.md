@@ -80,3 +80,6 @@
 ![Screenshot (125)](https://user-images.githubusercontent.com/113407411/192933950-cf102984-676f-48a7-bce3-8cca8e0980ba.png)
 ![Screenshot (126)](https://user-images.githubusercontent.com/113407411/192934159-4e50929d-e125-4c50-8419-be5a3e6d1517.png)
 ![Screenshot (127)](https://user-images.githubusercontent.com/113407411/192934176-3948a0e6-181f-43f8-9595-f7763efbd0e8.png)
+##exp.no.14:
+![Screenshot (127)](https://user-images.githubusercontent.com/113407411/192934776-66cfc563-2cb7-49a0-94e6-14e16a49a708.png)
+![Screenshot (128)](https://user-images.githubusercontent.com/113407411/192934610-7b4de39a-8972-4c86-a50e-2eede8f01aa8.png)
