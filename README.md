@@ -83,3 +83,4 @@
 ##exp.no.14:
 ![Screenshot (127)](https://user-images.githubusercontent.com/113407411/192934776-66cfc563-2cb7-49a0-94e6-14e16a49a708.png)
 ![Screenshot (128)](https://user-images.githubusercontent.com/113407411/192934610-7b4de39a-8972-4c86-a50e-2eede8f01aa8.png)
+![image](https://user-images.githubusercontent.com/113407411/192935094-453d7ab3-d0a5-4a2b-8cca-a2332dccee8c.png)
