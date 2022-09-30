@@ -1,0 +1,7 @@
+##creating a database
+step_1: go to azr and slect sql database
+step_2: select and the resource group and give name to database.
+step_3: in networking select access to allow azure services
+step_4: in additional select none.
+step_5: click on review+create.
+step_6: deploy the database.
